@@ -1,6 +1,3 @@
-Here is the complete **Backpack 2** with questions and answers for **React, MongoDB, Node.js, and Express.js**
-
-
 # Backpack 2: React, MongoDB, Node.js, and Express.js
 
 ---
@@ -741,8 +738,5 @@ Here is the complete **Backpack 2** with questions and answers for **React, Mong
     ```javascript
     app.set("view engine", "ejs");
     ```
-
----
-
-``` 
+**Create by [Fakrul-Hossain](https://github.com/fakrul-hossain).
 
